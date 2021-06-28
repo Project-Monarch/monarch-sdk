@@ -1,5 +1,5 @@
 {
-  "name": "@monarch/sdk",
+  "name": "@project-monarch/sdk",
   "license": "MIT",
   "version": "2.0.1",
   "description": "🛠 An SDK for building applications on top of Project Monarch.",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Project-Monarch/monarch-sdk.git",
+  "repository": "https://github.com/Project-Monarch/project-monarch-sdk.git",
   "keywords": [
     "uniswap",
     "ethereum"
@@ -22,7 +22,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@monarch/core": "^1.0.5",
+    "@project-monarch/core": "^1.0.5",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",

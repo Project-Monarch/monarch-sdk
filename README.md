@@ -1,9 +1,9 @@
 # Project Monarch SDK
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Actions Status](https://github.com/Project-Monarch/monarch-sdk/workflows/CI/badge.svg)](https://github.com/Project-Monarch/monarch-sdk)
-[![npm version](https://img.shields.io/npm/v/@monarch/sdk/latest.svg)](https://www.npmjs.com/package/@monarch/sdk/v/latest)
-[![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@monarch/sdk/latest.svg)](https://bundlephobia.com/result?p=@monarch/sdk@latest)
+[![Actions Status](https://github.com/Project-Monarch/project-monarch-sdk/workflows/CI/badge.svg)](https://github.com/Project-Monarch/project-monarch-sdk)
+[![npm version](https://img.shields.io/npm/v/@project-monarch/sdk/latest.svg)](https://www.npmjs.com/package/@project-monarch/sdk/v/latest)
+[![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@project-monarch/sdk/latest.svg)](https://bundlephobia.com/result?p=@project-monarch/sdk@latest)
 
 In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
 
@@ -14,13 +14,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/Project-Monarch/monarch-sdk.git
+git clone https://github.com/Project-Monarch/project-monarch-sdk.git
 ```
 
-Move into the monarch-sdk working directory
+Move into the project-monarch-sdk working directory
 
 ```sh
-cd monarch-sdk/
+cd project-monarch-sdk/
 ```
 
 Install dependencies
