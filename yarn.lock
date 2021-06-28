@@ -2114,7 +2114,7 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@project-monarch/core@^1.0.5":
+"@project-monarch/core@^2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@project-monarch/core/-/core-2.0.1.tgz#421f06d76d7ae248ae2e4da1a32dbd2a7ee217e6"
   integrity sha512-Y0O0T0e5hj82qJ2VCPHgSJEja/G38CksfpC4lwPA5vDIQ6KY4uIrvDjtsNXmGx2G8E+O7Jk3Up25yE1eeY34SA==
